@@ -1,0 +1,2 @@
+# dismmc
+distribute mmc
